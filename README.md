@@ -1,5 +1,7 @@
 # LuisaRender
 
+[![build-cmake](https://github.com/mvklingeren/LuisaRender/actions/workflows/ci.yml/badge.svg)](https://github.com/mvklingeren/LuisaRender/actions/workflows/ci.yml)
+
 LuisaRender is a high-performance cross-platform Monte-Carlo renderer for stream architectures based
 on [LuisaCompute](https://github.com/LuisaGroup/LuisaCompute).
 
